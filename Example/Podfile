@@ -1,5 +1,6 @@
 use_frameworks!
-
+source 'https://github.com/qiaoxiyang/FFSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
 
 target 'FFSpecialKit_Category_Example' do
